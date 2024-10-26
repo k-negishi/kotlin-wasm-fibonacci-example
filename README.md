@@ -58,3 +58,6 @@ After building, files are generated in the following directory:
 
 The Fibonacci sequence calculation logic is implemented in `main.kt`, located in `/src/wasmMain/kotlin/`.
 Opening `/src/wasmMain/resources/index.html` in a browser displays the Fibonacci calculation application.
+
+## Other Repositories
+Rust/Wasm Fibonacci Example: https://github.com/k-negishi/rust-wasm-fibonacci-example
