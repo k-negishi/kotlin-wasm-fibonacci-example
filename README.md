@@ -12,7 +12,7 @@ For comparison purposes, a JavaScript function to calculate the Fibonacci sequen
 - JavaScript
 
 ## Public URL
-https://kotlin-wasm-example.s3.ap-northeast-1.amazonaws.com/index.html
+https://wasm-fibonacci-example.s3.ap-northeast-1.amazonaws.com/kotlin/index.html
 
 ## Set up the Environment
 
