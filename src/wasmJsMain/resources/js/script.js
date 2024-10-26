@@ -63,6 +63,12 @@ function handleCalculateButtonClick() {
     const n = parseInt(input, 10);
     console.log('計算する項数:', n);
 
+    // 入力値の検証
+    if (isNaN(n) || n < 0) {
+        alert('正の整数を入力してください。');
+        return;
+    }
+
     // JavaScriptの計算
     const startJavaScript = performance.now();
     const javaScriptSequence = generateFibonacciJavaScript(n);
