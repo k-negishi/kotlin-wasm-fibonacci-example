@@ -1,6 +1,6 @@
 # Kotlin/Wasm Fibonacci Example
 
-This repository is a sample project that calculates the Fibonacci sequence using Kotlin/Wasm.  
+This repository is a sample project that calculates the Fibonacci sequence using Kotlin/Wasm(WEBAssembly).  
 It is based on JetBrains' [Kotlin/kotlin-wasm-nodejs-template](https://github.com/Kotlin/kotlin-wasm-nodejs-template).
 
 From an HTML file, a Kotlin/Wasm function is called via JavaScript to compute the Fibonacci sequence.  
